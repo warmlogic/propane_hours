@@ -1,0 +1,1 @@
+Calculate the number of hours of propane in a propane tank. I use this for homebrewing beer.
